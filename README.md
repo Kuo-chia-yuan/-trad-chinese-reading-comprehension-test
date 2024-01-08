@@ -2,6 +2,8 @@
 
 ## 介紹
 學習大語言模型，挑戰中文閱讀測驗
+ - input：閱讀測驗題目 + 4個選項
+ - output：正確答案
 
 ## 程式架構
  1. 資料讀取：讀取 AI.xlsx 和 AI1000.xlsx 兩個檔案當作 train data 和 test data。
